@@ -1,0 +1,439 @@
+2020-11-05 14:46:36 INFO  root:71 - runner added to database.runners
+2020-11-05 14:47:04 INFO  root:17 - Program has started
+2020-11-05 15:55:40 INFO  root:17 - Program has started
+2020-11-05 15:56:04 INFO  root:87 - dog added to owner.dogs()
+2020-11-05 15:56:04 INFO  root:89 - dog added to database.dogs()
+2020-11-05 15:56:07 INFO  root:87 - dog added to owner.dogs()
+2020-11-05 15:56:07 INFO  root:89 - dog added to database.dogs()
+2020-11-05 15:56:07 INFO  root:92 - Owner added to database.owners()
+2020-11-05 15:56:30 INFO  root:71 - runner added to database.runners
+2020-11-05 15:56:44 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 15:56:44 INFO  root:20 - Match found
+2020-11-05 15:57:26 INFO  root:43 - match not found
+2020-11-05 15:58:02 INFO  root:17 - Program has started
+2020-11-05 15:58:12 INFO  root:17 - Program has started
+2020-11-05 15:58:19 INFO  root:57 - no user found
+2020-11-05 15:58:22 INFO  root:57 - no user found
+2020-11-05 16:06:07 INFO  root:17 - Program has started
+2020-11-05 16:06:42 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:07:48 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:11:30 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:18:36 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:18:37 INFO  root:36 - Match found
+2020-11-05 16:18:41 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:18:41 INFO  root:20 - Match found
+2020-11-05 16:24:57 INFO  root:17 - Program has started
+2020-11-05 16:25:24 INFO  root:87 - dog added to owner.dogs()
+2020-11-05 16:25:24 INFO  root:89 - dog added to database.dogs()
+2020-11-05 16:25:31 INFO  root:87 - dog added to owner.dogs()
+2020-11-05 16:25:31 INFO  root:89 - dog added to database.dogs()
+2020-11-05 16:25:31 INFO  root:92 - Owner added to database.owners()
+2020-11-05 16:25:41 INFO  root:43 - match not found
+2020-11-05 16:26:03 INFO  root:71 - runner added to database.runners
+2020-11-05 16:26:06 INFO  root:42 - pairing added to database.pairings()
+2020-11-05 16:26:06 INFO  root:20 - Match found
+2020-11-05 16:26:27 INFO  root:68 - User not found
+2020-11-05 16:26:41 INFO  root:90 - Program has ended
+2020-11-08 14:20:12 INFO  root:17 - Program has started
+2020-11-12 17:14:40 INFO  root:18 - program has started
+2020-11-12 18:57:03 INFO  root:18 - program has started
+2020-11-12 18:57:20 INFO  root:21 - Controller: create dog
+2020-11-12 18:57:20 INFO  root:18 - Dog Service: create dog
+2020-11-12 18:59:19 INFO  root:18 - program has started
+2020-11-12 18:59:24 INFO  root:21 - Controller: create dog
+2020-11-12 18:59:24 INFO  root:18 - Dog Service: create dog
+2020-11-12 19:02:00 INFO  root:18 - program has started
+2020-11-12 19:02:07 INFO  root:21 - Controller: create dog
+2020-11-12 19:02:07 INFO  root:18 - Dog Service: create dog
+2020-11-12 19:03:34 INFO  root:18 - program has started
+2020-11-12 19:03:38 INFO  root:21 - Controller: create dog
+2020-11-12 19:03:38 INFO  root:18 - Dog Service: create dog
+2020-11-12 19:08:27 INFO  root:18 - program has started
+2020-11-12 19:08:39 INFO  root:21 - Controller: create dog
+2020-11-12 19:08:39 INFO  root:18 - Dog Service: create dog
+2020-11-12 19:08:39 INFO  root:45 - Controller creating dog
+2020-11-13 10:09:15 INFO  root:18 - program has started
+2020-11-13 10:09:52 INFO  root:18 - program has started
+2020-11-13 10:10:00 INFO  root:19 - Controller: create owner
+2020-11-13 10:10:00 INFO  root:19 - Owner Service: create owner
+2020-11-13 10:10:00 INFO  root:42 - Controller creating owner
+2020-11-13 10:11:01 INFO  root:18 - program has started
+2020-11-13 10:11:22 INFO  root:19 - Controller: create owner
+2020-11-13 10:11:22 INFO  root:19 - Owner Service: create owner
+2020-11-13 10:11:22 INFO  root:42 - Controller creating owner
+2020-11-13 10:15:02 INFO  root:18 - program has started
+2020-11-13 10:15:11 INFO  root:54 - Controller: update owner
+2020-11-13 10:38:31 INFO  root:18 - program has started
+2020-11-13 10:38:37 INFO  root:18 - program has started
+2020-11-13 10:38:55 INFO  root:54 - Controller: update owner
+2020-11-13 10:38:55 INFO  root:38 - Owner Service: update owner
+2020-11-15 11:48:47 INFO  root:18 - program has started
+2020-11-15 11:48:51 INFO  root:54 - Controller: update owner
+2020-11-15 11:48:51 INFO  root:38 - Owner Service: update owner
+2020-11-15 11:55:35 INFO  root:18 - program has started
+2020-11-15 11:55:38 INFO  root:54 - Controller: update owner
+2020-11-15 11:55:38 INFO  root:38 - Owner Service: update owner
+2020-11-15 11:58:29 INFO  root:18 - program has started
+2020-11-15 11:58:36 INFO  root:18 - program has started
+2020-11-15 11:58:43 INFO  root:21 - Controller: create dog
+2020-11-15 11:58:44 INFO  root:18 - Dog Service: create dog
+2020-11-15 11:58:44 INFO  root:45 - Controller creating dog
+2020-11-15 12:01:12 INFO  root:18 - program has started
+2020-11-15 12:01:16 INFO  root:37 - Dog Service: update dog
+2020-11-15 12:02:05 INFO  root:18 - program has started
+2020-11-15 12:02:07 INFO  root:37 - Dog Service: update dog
+2020-11-15 12:08:08 INFO  root:18 - program has started
+2020-11-15 12:08:14 INFO  root:37 - Dog Service: update dog
+2020-11-15 12:09:38 INFO  root:18 - program has started
+2020-11-15 12:09:41 INFO  root:37 - Dog Service: update dog
+2020-11-15 12:10:15 INFO  root:18 - program has started
+2020-11-15 12:10:21 INFO  root:37 - Dog Service: update dog
+2020-11-15 12:12:32 INFO  root:18 - program has started
+2020-11-15 12:12:46 INFO  root:37 - Dog Service: update dog
+2020-11-15 12:17:31 INFO  root:18 - program has started
+2020-11-15 12:17:34 INFO  root:19 - Controller: create owner
+2020-11-15 12:17:34 INFO  root:19 - Owner Service: create owner
+2020-11-15 12:17:34 INFO  root:42 - Controller creating owner
+2020-11-15 12:17:58 INFO  root:18 - program has started
+2020-11-15 12:18:14 INFO  root:19 - Controller: create owner
+2020-11-15 12:18:14 INFO  root:19 - Owner Service: create owner
+2020-11-15 12:18:14 INFO  root:42 - Controller creating owner
+2020-11-15 12:18:22 INFO  root:18 - program has started
+2020-11-15 12:18:36 INFO  root:19 - Controller: create owner
+2020-11-15 12:18:36 INFO  root:19 - Owner Service: create owner
+2020-11-15 12:18:36 INFO  root:42 - Controller creating owner
+2020-11-15 12:18:56 INFO  root:18 - program has started
+2020-11-15 12:19:28 INFO  root:19 - Controller: create owner
+2020-11-15 12:19:28 INFO  root:19 - Owner Service: create owner
+2020-11-15 12:19:28 INFO  root:42 - Controller creating owner
+2020-11-15 12:20:57 INFO  root:18 - program has started
+2020-11-15 12:21:37 INFO  root:21 - Controller: create dog
+2020-11-15 12:21:37 INFO  root:18 - Dog Service: create dog
+2020-11-15 12:21:37 INFO  root:45 - Controller creating dog
+2020-11-15 12:21:44 INFO  root:18 - program has started
+2020-11-15 12:21:57 INFO  root:21 - Controller: create dog
+2020-11-15 12:21:57 INFO  root:18 - Dog Service: create dog
+2020-11-15 12:21:57 INFO  root:45 - Controller creating dog
+2020-11-15 12:22:18 INFO  root:18 - program has started
+2020-11-15 12:22:41 INFO  root:21 - Controller: create dog
+2020-11-15 12:22:41 INFO  root:18 - Dog Service: create dog
+2020-11-15 12:22:41 INFO  root:45 - Controller creating dog
+2020-11-15 12:23:57 INFO  root:18 - program has started
+2020-11-15 12:24:35 INFO  root:21 - Controller: create dog
+2020-11-15 12:24:35 INFO  root:18 - Dog Service: create dog
+2020-11-15 12:24:35 INFO  root:45 - Controller creating dog
+2020-11-15 12:25:26 INFO  root:18 - program has started
+2020-11-15 12:25:43 INFO  root:21 - Controller: create dog
+2020-11-15 12:25:43 INFO  root:18 - Dog Service: create dog
+2020-11-15 12:25:43 INFO  root:45 - Controller creating dog
+2020-11-15 12:26:43 INFO  root:18 - program has started
+2020-11-15 12:27:03 INFO  root:21 - Controller: create dog
+2020-11-15 12:27:03 INFO  root:18 - Dog Service: create dog
+2020-11-15 12:27:03 INFO  root:45 - Controller creating dog
+2020-11-15 12:30:39 INFO  root:18 - program has started
+2020-11-15 12:30:45 INFO  root:20 - Controller: create a runner
+2020-11-15 12:31:16 INFO  root:18 - program has started
+2020-11-15 12:31:19 INFO  root:20 - Controller: create a runner
+2020-11-15 12:31:19 INFO  root:20 - Runner Service: create runner
+2020-11-15 12:47:17 INFO  root:18 - program has started
+2020-11-15 12:47:38 INFO  root:20 - Controller: create a runner
+2020-11-15 12:47:38 INFO  root:20 - Runner Service: create runner
+2020-11-15 12:48:41 INFO  root:18 - program has started
+2020-11-15 12:48:43 INFO  root:20 - Controller: create a runner
+2020-11-15 12:48:43 INFO  root:20 - Runner Service: create runner
+2020-11-15 12:52:33 INFO  root:18 - program has started
+2020-11-15 12:52:37 INFO  root:20 - Controller: create a runner
+2020-11-15 12:52:37 INFO  root:20 - Runner Service: create runner
+2020-11-15 12:53:24 INFO  root:18 - program has started
+2020-11-15 12:53:26 INFO  root:20 - Controller: create a runner
+2020-11-15 12:53:26 INFO  root:20 - Runner Service: create runner
+2020-11-15 12:54:11 INFO  root:18 - program has started
+2020-11-15 12:54:13 INFO  root:20 - Controller: create a runner
+2020-11-15 12:54:13 INFO  root:20 - Runner Service: create runner
+2020-11-15 13:23:54 INFO  root:18 - program has started
+2020-11-15 13:24:06 INFO  root:21 - Controller: create dog
+2020-11-15 13:24:06 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:24:06 INFO  root:45 - Controller creating dog
+2020-11-15 13:26:15 INFO  root:18 - program has started
+2020-11-15 13:27:12 INFO  root:18 - program has started
+2020-11-15 13:27:14 INFO  root:21 - Controller: create dog
+2020-11-15 13:27:14 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:27:14 INFO  root:45 - Controller creating dog
+2020-11-15 13:29:27 INFO  root:18 - program has started
+2020-11-15 13:30:02 INFO  root:21 - Controller: create dog
+2020-11-15 13:30:02 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:30:02 INFO  root:45 - Controller creating dog
+2020-11-15 13:32:28 INFO  root:18 - program has started
+2020-11-15 13:32:42 INFO  root:21 - Controller: create dog
+2020-11-15 13:32:42 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:32:42 INFO  root:45 - Controller creating dog
+2020-11-15 13:34:04 INFO  root:21 - Controller: create dog
+2020-11-15 13:34:04 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:34:04 INFO  root:45 - Controller creating dog
+2020-11-15 13:36:53 INFO  root:18 - program has started
+2020-11-15 13:37:06 INFO  root:21 - Controller: create dog
+2020-11-15 13:37:06 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:37:06 INFO  root:45 - Controller creating dog
+2020-11-15 13:44:12 INFO  root:18 - program has started
+2020-11-15 13:44:36 INFO  root:21 - Controller: create dog
+2020-11-15 13:44:36 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:44:37 INFO  root:45 - Controller creating dog
+2020-11-15 13:44:44 INFO  root:18 - program has started
+2020-11-15 13:45:05 INFO  root:21 - Controller: create dog
+2020-11-15 13:45:05 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:45:05 INFO  root:45 - Controller creating dog
+2020-11-15 13:45:10 INFO  root:18 - program has started
+2020-11-15 13:45:30 INFO  root:21 - Controller: create dog
+2020-11-15 13:45:30 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:46:23 INFO  root:20 - Controller: create a runner
+2020-11-15 13:46:23 INFO  root:20 - Runner Service: create runner
+2020-11-15 13:46:43 INFO  root:18 - program has started
+2020-11-15 13:47:00 INFO  root:20 - Controller: create a runner
+2020-11-15 13:47:00 INFO  root:20 - Runner Service: create runner
+2020-11-15 13:47:09 INFO  root:18 - program has started
+2020-11-15 13:47:31 INFO  root:20 - Controller: create a runner
+2020-11-15 13:47:31 INFO  root:20 - Runner Service: create runner
+2020-11-15 13:48:21 INFO  root:18 - program has started
+2020-11-15 13:48:59 INFO  root:21 - Controller: create dog
+2020-11-15 13:48:59 INFO  root:18 - Dog Service: create dog
+2020-11-15 13:48:59 INFO  root:45 - Controller creating dog
+2020-11-15 13:50:33 INFO  root:20 - Controller: create a runner
+2020-11-15 13:50:33 INFO  root:20 - Runner Service: create runner
+2020-11-15 13:55:50 INFO  root:18 - program has started
+2020-11-15 13:56:12 INFO  root:20 - Controller: create a runner
+2020-11-15 13:56:12 INFO  root:20 - Runner Service: create runner
+2020-11-15 14:03:14 INFO  root:18 - program has started
+2020-11-15 14:03:21 INFO  root:39 - Dog Service: update dog
+2020-11-15 14:06:08 INFO  root:18 - program has started
+2020-11-15 14:06:11 INFO  root:39 - Dog Service: update dog
+2020-11-15 14:07:41 INFO  root:18 - program has started
+2020-11-15 14:07:45 INFO  root:39 - Dog Service: update dog
+2020-11-15 14:09:11 INFO  root:18 - program has started
+2020-11-15 14:09:22 INFO  root:39 - Dog Service: update dog
+2020-11-15 14:11:25 INFO  root:18 - program has started
+2020-11-15 14:11:29 INFO  root:39 - Dog Service: update dog
+2020-11-15 14:11:48 INFO  root:18 - program has started
+2020-11-15 14:11:49 INFO  root:39 - Dog Service: update dog
+2020-11-15 14:12:19 INFO  root:18 - program has started
+2020-11-15 14:12:26 INFO  root:39 - Dog Service: update dog
+2020-11-15 14:12:26 INFO  root:140 - PostgreSQL updating Dog
+2020-11-15 14:12:56 INFO  root:18 - program has started
+2020-11-15 14:13:03 INFO  root:39 - Dog Service: update dog
+2020-11-15 14:13:03 INFO  root:140 - PostgreSQL updating Dog
+2020-11-15 14:13:51 INFO  root:18 - program has started
+2020-11-15 14:14:53 INFO  root:57 - Controller: update runner
+2020-11-15 14:14:53 INFO  root:40 - Runner Service: update runner
+2020-11-15 14:17:15 INFO  root:18 - program has started
+2020-11-15 14:17:19 INFO  root:57 - Controller: update runner
+2020-11-15 14:17:19 INFO  root:40 - Runner Service: update runner
+2020-11-15 14:17:44 INFO  root:18 - program has started
+2020-11-15 14:17:46 INFO  root:57 - Controller: update runner
+2020-11-15 14:17:46 INFO  root:40 - Runner Service: update runner
+2020-11-15 14:17:46 INFO  root:139 -  PostgreSQL updating Runner
+2020-11-15 14:19:43 INFO  root:18 - program has started
+2020-11-15 14:20:00 INFO  root:54 - Controller: update owner
+2020-11-15 14:20:00 INFO  root:38 - Owner Service: update owner
+2020-11-15 14:20:51 INFO  root:18 - program has started
+2020-11-15 14:20:55 INFO  root:54 - Controller: update owner
+2020-11-15 14:20:55 INFO  root:38 - Owner Service: update owner
+2020-11-15 14:20:55 INFO  root:130 -  PostgreSQL updating Owner with username sirrese
+2020-11-15 14:24:46 INFO  root:18 - program has started
+2020-11-15 14:24:48 INFO  root:43 - Controller: read a dog
+2020-11-15 14:24:48 INFO  root:27 - Dog Service: read dog
+2020-11-15 14:25:37 INFO  root:18 - program has started
+2020-11-15 14:25:40 INFO  root:43 - Controller: read a dog
+2020-11-15 14:25:40 INFO  root:27 - Dog Service: read dog
+2020-11-15 14:25:40 INFO  root:79 - PostgreSQL reading dog by id number1
+2020-11-15 14:29:34 INFO  root:18 - program has started
+2020-11-15 14:29:40 INFO  root:43 - Controller: read a dog
+2020-11-15 14:29:40 INFO  root:27 - Dog Service: read dog
+2020-11-15 14:29:40 INFO  root:79 - PostgreSQL reading dog by id number1
+2020-11-15 14:29:55 INFO  root:18 - program has started
+2020-11-15 14:29:59 INFO  root:43 - Controller: read a dog
+2020-11-15 14:29:59 INFO  root:27 - Dog Service: read dog
+2020-11-15 14:29:59 INFO  root:79 - PostgreSQL reading dog by id number2
+2020-11-15 14:30:51 INFO  root:18 - program has started
+2020-11-15 14:30:54 INFO  root:56 - Controller: read all dogs
+2020-11-15 14:30:54 INFO  root:33 - Dog Service: read all dogs
+2020-11-15 14:49:03 INFO  root:18 - program has started
+2020-11-15 14:49:09 INFO  root:58 - Controller: read all dogs
+2020-11-15 14:49:09 INFO  root:98 - Controller reading all dogs
+2020-11-15 14:49:09 INFO  root:33 - Dog Service: read all dogs
+2020-11-15 14:49:09 INFO  root:98 - Controller reading all dogs
+2020-11-15 14:49:42 INFO  root:58 - Controller: read all dogs
+2020-11-15 14:49:43 INFO  root:98 - Controller reading all dogs
+2020-11-15 14:49:43 INFO  root:33 - Dog Service: read all dogs
+2020-11-15 14:49:43 INFO  root:98 - Controller reading all dogs
+2020-11-15 14:49:50 INFO  root:18 - program has started
+2020-11-15 14:49:52 INFO  root:58 - Controller: read all dogs
+2020-11-15 14:49:52 INFO  root:98 - Controller reading all dogs
+2020-11-15 14:52:07 INFO  root:18 - program has started
+2020-11-15 14:52:12 INFO  root:58 - Controller: read all dogs
+2020-11-15 14:52:13 INFO  root:98 - Controller reading all dogs
+2020-11-15 14:59:18 INFO  root:18 - program has started
+2020-11-15 14:59:24 INFO  root:100 - deleting dog
+2020-11-15 14:59:24 INFO  root:47 - Dog Service: delete dog
+2020-11-15 15:00:03 INFO  root:18 - program has started
+2020-11-15 15:00:05 INFO  root:100 - deleting dog
+2020-11-15 15:00:05 INFO  root:47 - Dog Service: delete dog
+2020-11-15 15:00:05 INFO  root:158 -  PostgreSQL deleting dog
+2020-11-15 15:01:45 INFO  root:18 - program has started
+2020-11-15 15:02:20 INFO  root:18 - program has started
+2020-11-15 15:08:13 INFO  root:18 - program has started
+2020-11-15 15:09:11 INFO  root:18 - program has started
+2020-11-15 15:10:28 INFO  root:18 - program has started
+2020-11-15 15:10:52 INFO  root:18 - program has started
+2020-11-15 15:10:55 INFO  root:45 - Controller: read a dog
+2020-11-15 15:10:55 INFO  root:27 - Dog Service: read dog
+2020-11-15 15:10:55 INFO  root:79 - PostgreSQL reading dog by id number2
+2020-11-15 15:11:56 INFO  root:18 - program has started
+2020-11-15 15:12:28 INFO  root:18 - program has started
+2020-11-15 15:12:33 INFO  root:36 - Controller: read an owner
+2020-11-15 15:12:33 INFO  root:26 - Owner Service: read owner
+2020-11-15 15:12:33 INFO  root:71 -  PostgreSQL reading Owner
+2020-11-15 15:17:09 INFO  root:18 - program has started
+2020-11-15 15:17:13 INFO  root:39 - Controller: read an owner
+2020-11-15 15:17:13 INFO  root:26 - Owner Service: read owner
+2020-11-15 15:17:13 INFO  root:71 -  PostgreSQL reading Owner
+2020-11-15 15:17:34 INFO  root:18 - program has started
+2020-11-15 15:17:37 INFO  root:39 - Controller: read an owner
+2020-11-15 15:17:37 INFO  root:26 - Owner Service: read owner
+2020-11-15 15:17:37 INFO  root:71 -  PostgreSQL reading Owner
+2020-11-15 15:18:20 INFO  root:18 - program has started
+2020-11-15 15:18:26 INFO  root:49 - Controller: read all owners
+2020-11-15 15:19:03 INFO  root:18 - program has started
+2020-11-15 15:19:12 INFO  root:49 - Controller: read all owners
+2020-11-15 15:20:34 INFO  root:18 - program has started
+2020-11-15 15:20:37 INFO  root:49 - Controller: read all owners
+2020-11-15 15:23:02 INFO  root:18 - program has started
+2020-11-15 15:23:04 INFO  root:49 - Controller: read all owners
+2020-11-15 15:23:04 INFO  root:91 - Controller reading all owners
+2020-11-15 15:27:28 INFO  root:18 - program has started
+2020-11-15 15:27:42 INFO  root:84 - Controller: delete owner
+2020-11-15 15:27:42 INFO  root:45 - Owner Service: delete owner
+2020-11-15 15:28:29 INFO  root:18 - program has started
+2020-11-15 15:28:37 INFO  root:84 - Controller: delete owner
+2020-11-15 15:28:37 INFO  root:45 - Owner Service: delete owner
+2020-11-15 15:30:32 INFO  root:18 - program has started
+2020-11-15 15:30:38 INFO  root:84 - Controller: delete owner
+2020-11-15 15:30:38 INFO  root:45 - Owner Service: delete owner
+2020-11-15 15:32:32 INFO  root:18 - program has started
+2020-11-15 15:32:34 INFO  root:84 - Controller: delete owner
+2020-11-15 15:32:34 INFO  root:45 - Owner Service: delete owner
+2020-11-15 15:32:55 INFO  root:18 - program has started
+2020-11-15 15:32:57 INFO  root:84 - Controller: delete owner
+2020-11-15 15:32:57 INFO  root:45 - Owner Service: delete owner
+2020-11-15 15:32:57 INFO  root:145 -  PostgreSQL deleting Owner with username apple
+2020-11-15 15:37:02 INFO  root:18 - program has started
+2020-11-15 15:37:04 INFO  root:22 - Controller: create owner
+2020-11-15 15:37:04 INFO  root:19 - Owner Service: create owner
+2020-11-15 15:37:04 INFO  root:42 - Controller creating owner
+2020-11-15 15:37:14 INFO  root:18 - program has started
+2020-11-15 15:37:28 INFO  root:22 - Controller: create owner
+2020-11-15 15:37:28 INFO  root:19 - Owner Service: create owner
+2020-11-15 15:37:28 INFO  root:42 - Controller creating owner
+2020-11-15 15:37:58 INFO  root:18 - program has started
+2020-11-15 15:38:32 INFO  root:23 - Controller: create dog
+2020-11-15 15:38:32 INFO  root:18 - Dog Service: create dog
+2020-11-15 15:38:32 INFO  root:45 - Controller creating dog
+2020-11-15 15:38:38 INFO  root:18 - program has started
+2020-11-15 15:38:55 INFO  root:23 - Controller: create dog
+2020-11-15 15:38:55 INFO  root:18 - Dog Service: create dog
+2020-11-15 15:38:55 INFO  root:45 - Controller creating dog
+2020-11-15 15:39:03 INFO  root:18 - program has started
+2020-11-15 15:40:02 INFO  root:18 - program has started
+2020-11-15 15:40:16 INFO  root:20 - Controller: create a runner
+2020-11-15 15:40:16 INFO  root:20 - Runner Service: create runner
+2020-11-15 15:40:22 INFO  root:18 - program has started
+2020-11-15 15:40:43 INFO  root:20 - Controller: create a runner
+2020-11-15 15:40:43 INFO  root:20 - Runner Service: create runner
+2020-11-15 15:40:49 INFO  root:18 - program has started
+2020-11-15 15:41:06 INFO  root:20 - Controller: create a runner
+2020-11-15 15:41:06 INFO  root:20 - Runner Service: create runner
+2020-11-15 15:50:03 INFO  root:18 - program has started
+2020-11-15 15:50:15 INFO  root:47 - Controller: read a runner
+2020-11-15 15:50:15 INFO  root:30 - Runner Service: read runner
+2020-11-15 15:50:15 INFO  root:27 - Dog Service: read dog
+2020-11-15 15:50:15 INFO  root:79 - PostgreSQL reading dog by id number0
+2020-11-15 15:53:29 INFO  root:18 - program has started
+2020-11-15 15:53:33 INFO  root:47 - Controller: read a runner
+2020-11-15 15:53:33 INFO  root:30 - Runner Service: read runner
+2020-11-15 15:53:33 INFO  root:80 -  PostgreSQL reading runner
+2020-11-15 15:53:33 INFO  root:27 - Dog Service: read dog
+2020-11-15 15:53:33 INFO  root:79 - PostgreSQL reading dog by id number1
+2020-11-15 15:53:36 INFO  root:47 - Controller: read a runner
+2020-11-15 15:53:36 INFO  root:30 - Runner Service: read runner
+2020-11-15 15:53:36 INFO  root:80 -  PostgreSQL reading runner
+2020-11-15 15:53:36 INFO  root:27 - Dog Service: read dog
+2020-11-15 15:53:36 INFO  root:79 - PostgreSQL reading dog by id number1
+2020-11-15 15:54:13 INFO  root:18 - program has started
+2020-11-15 15:54:15 INFO  root:47 - Controller: read a runner
+2020-11-15 15:54:15 INFO  root:30 - Runner Service: read runner
+2020-11-15 15:54:15 INFO  root:82 -  PostgreSQL reading runner
+2020-11-15 15:54:15 INFO  root:27 - Dog Service: read dog
+2020-11-15 15:54:15 INFO  root:79 - PostgreSQL reading dog by id number1
+2020-11-15 15:56:26 INFO  root:18 - program has started
+2020-11-15 15:56:52 INFO  root:86 - Controller: read all runners
+2020-11-15 15:56:52 INFO  root:36 - Runner Service: read all runners
+2020-11-15 15:56:52 INFO  root:101 - Controller reading all runners
+2020-11-15 15:57:20 INFO  root:18 - program has started
+2020-11-15 15:57:22 INFO  root:86 - Controller: read all runners
+2020-11-15 15:57:22 INFO  root:36 - Runner Service: read all runners
+2020-11-15 15:57:22 INFO  root:101 - Controller reading all runners
+2020-11-15 15:57:22 INFO  root:27 - Dog Service: read dog
+2020-11-15 15:57:22 INFO  root:79 - PostgreSQL reading dog by id number1
+2020-11-15 15:57:22 INFO  root:27 - Dog Service: read dog
+2020-11-15 15:57:22 INFO  root:79 - PostgreSQL reading dog by id number2
+2020-11-15 15:57:22 INFO  root:27 - Dog Service: read dog
+2020-11-15 15:57:22 INFO  root:79 - PostgreSQL reading dog by id number3
+2020-11-15 15:58:02 INFO  root:18 - program has started
+2020-11-15 15:59:16 INFO  root:18 - program has started
+2020-11-15 15:59:18 INFO  root:107 - Controller: delete a runner
+2020-11-15 15:59:18 INFO  root:49 - Account Service: delete account
+2020-11-15 15:59:19 INFO  root:161 - Controller deleting runner with runnerusername = null
+2020-11-15 15:59:42 INFO  root:18 - program has started
+2020-11-15 15:59:46 INFO  root:107 - Controller: delete a runner
+2020-11-15 15:59:46 INFO  root:49 - Account Service: delete account
+2020-11-15 16:01:06 INFO  root:18 - program has started
+2020-11-15 16:01:10 INFO  root:107 - Controller: delete a runner
+2020-11-15 16:01:10 INFO  root:49 - Account Service: delete account
+2020-11-15 16:01:10 INFO  root:161 - Controller deleting runner with runnerusername = mike
+2020-11-15 20:11:12 INFO  root:18 - program has started
+2020-11-15 20:13:28 INFO  root:26 - Controller: create a runner
+2020-11-15 20:13:28 INFO  root:22 - Runner Service: create runner
+2020-11-16 11:29:37 INFO  root:18 - program has started
+2020-11-16 12:14:25 INFO  root:18 - program has started
+2020-11-16 12:14:50 INFO  root:22 - Controller: create owner
+2020-11-16 12:14:50 INFO  root:19 - Owner Service: create owner
+2020-11-16 12:14:50 INFO  root:42 - Controller creating owner
+2020-11-16 12:15:40 INFO  root:18 - program has started
+2020-11-16 12:16:17 INFO  root:23 - Controller: create dog
+2020-11-16 12:16:17 INFO  root:18 - Dog Service: create dog
+2020-11-16 12:16:17 INFO  root:45 - Controller creating dog
+2020-11-16 12:16:26 INFO  root:18 - program has started
+2020-11-16 12:42:31 INFO  root:18 - program has started
+2020-11-16 12:42:38 INFO  root:22 - Controller: create owner
+2020-11-16 12:42:39 INFO  root:19 - Owner Service: create owner
+2020-11-16 12:42:39 INFO  root:42 - Controller creating owner
+2020-11-16 12:43:19 INFO  root:18 - program has started
+2020-11-16 12:43:21 INFO  root:69 - Controller: update owner
+2020-11-16 12:43:21 INFO  root:38 - Owner Service: update owner
+2020-11-16 12:43:21 INFO  root:131 -  PostgreSQL updating Owner with username Nick
+2020-11-16 12:43:48 INFO  root:18 - program has started
+2020-11-16 12:43:50 INFO  root:49 - Controller: read all owners
+2020-11-16 12:43:50 INFO  root:91 - Controller reading all owners
+2020-11-16 12:44:15 INFO  root:84 - Controller: delete owner
+2020-11-16 12:44:15 INFO  root:45 - Owner Service: delete owner
+2020-11-16 12:44:15 INFO  root:145 -  PostgreSQL deleting Owner with username Nick
+2020-11-16 12:44:20 INFO  root:18 - program has started
+2020-11-16 12:44:22 INFO  root:84 - Controller: delete owner
+2020-11-16 12:44:22 INFO  root:45 - Owner Service: delete owner
+2020-11-16 12:44:22 INFO  root:145 -  PostgreSQL deleting Owner with username Nick
+2020-11-16 12:45:28 INFO  root:23 - Controller: create dog
+2020-11-16 12:45:28 INFO  root:18 - Dog Service: create dog
+2020-11-16 12:45:28 INFO  root:45 - Controller creating dog
+2020-11-16 12:45:38 INFO  root:18 - program has started
+2020-11-16 12:46:07 INFO  root:23 - Controller: create dog
+2020-11-16 12:46:07 INFO  root:18 - Dog Service: create dog
+2020-11-16 12:47:23 INFO  root:23 - Controller: create dog
+2020-11-16 12:47:23 INFO  root:18 - Dog Service: create dog
